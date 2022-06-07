@@ -1,0 +1,8 @@
+{
+  "name": "Hydra Apply",
+  "description": "Apply random hydrapaper",
+  "uuid": "hydra-apply@nullstrom.com",
+  "shell-version": [
+    "42"
+  ]
+}

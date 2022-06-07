@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+    <schema id="org.gnome.shell.extensions.hydra-apply" path="/org/gnome/shell/extensions/hydra-apply/">
+        <key type="i" name="minutes"><default>1</default></key>
+        <key type="b" name="auto"><default>false</default></key>
+    </schema>
+</schemalist>
