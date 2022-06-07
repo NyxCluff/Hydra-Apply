@@ -6,7 +6,7 @@ Gnome extension to apply random wallpapers using [Hydrapaper](https://hydrapaper
 
 Uses systemd-run to create transient timers that will run the hydrapaper flatpak with the -r command line option. 
 
-Only tested on Pop_Os with X11.
+Only tested on Pop_Os, Gnome 42.1 with X11.
 
 # Installation
 Not yet on Gnome Extensions so to install, clone the repository and chuck the folder into your local extensions folder. 
