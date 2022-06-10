@@ -15,10 +15,7 @@ Likely:
 ``` code
 ~/.local/share/gnome-shell/extensions/
 ```
-Then run,
-```
-gnome-extensions apply hydra-apply@nullstrom.com
-```
+Then restart gnome (alt+f2, r), or log out and in again if your on wayland
 
 It should now show up in the extensions app.
 
