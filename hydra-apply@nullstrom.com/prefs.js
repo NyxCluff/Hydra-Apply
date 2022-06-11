@@ -33,7 +33,7 @@ function fillPreferencesWindow(window) {
     // Create the switch and bind its value to the `show-indicator` key
     const secondsToChange = new Gtk.SpinButton({
         adjustment: new Gtk.Adjustment({
-            lower: 0,
+            lower: 1,
             upper: 60,
             step_increment: 1,
         }),
